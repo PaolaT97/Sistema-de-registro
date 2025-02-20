@@ -1,3 +1,3 @@
 <h1 sistema de registro </h1>
 
-- Esatdo del proyecto: en construcción
+- Estado del proyecto: en construcción
